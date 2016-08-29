@@ -1,7 +1,7 @@
 /*
  * File: genlib.h
  * -----------------------------------------------------
- * This header file is included in Assignment 1 to 
+ * This header file is included to 
  * provide a few common definitions. 
  *
  */
